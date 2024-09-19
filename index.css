@@ -110,10 +110,10 @@ footer .text_footer .time{
 }
 
 .redes{
-    display: flex;
+    display: none;
     position: absolute;
-    top: 460px;
-    right: 30px;
+    top: 630px;
+    right: 807px;
     justify-content: center;
     align-items: center;
     flex-direction: row;
